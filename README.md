@@ -2,7 +2,7 @@
 
 <img width="700" src="https://github.com/deso2/Azure_Honeynet-Cyber_Attack/assets/168561314/8f051c79-7cd9-47a4-a0c9-e0b3466e58ab">
 
-After setting up a <a href="https://github.com/deso2/VM-HoneyPot-Configuration/blob/main/README.md">Virtual Machine</a> for a honeypot environment. Check the status of your VM if it is online. Connect to it remotely, I used RDP on my windows VM.
+After setting up a <a href="https://github.com/deso2/VM-HoneyPot-Configuration/blob/main/README.md">Virtual Machine</a> for a honeypot environment, Check the status of your VM if it is online. Connect to it remotely, using the public IP on your Azure VM. I used RDP on my windows VM.
 
 <img width="701" src="https://github.com/deso2/Azure_Honeynet-Cyber_Attack/assets/168561314/aa8b841d-afbf-46e6-aab8-d1a3e56962e0">
 
