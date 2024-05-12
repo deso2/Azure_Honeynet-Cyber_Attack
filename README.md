@@ -24,10 +24,8 @@ Next, we'll create a spot for log analytics on Azure. This will involve providin
 
 Choose the failed_rdp log file as the sample log, and the path in ypur VM give the custom log a name of your choice.
 
+<img width="752" src="https://github.com/deso2/Azure_Honeynet-Cyber_Attack/assets/168561314/2823e363-b7fd-41df-956d-6f8ce7f428dd">
 
+<img width="1278" src="https://github.com/deso2/Azure_Honeynet-Cyber_Attack/assets/168561314/13869ba0-92e3-46f4-8654-cc516ab111fc">
 
-
-
-
-
-Finally, you can proceed with any additional manual steps
+Run the query and use virtualization to map and adjust the settings according to your preferences. I adjusted mine to view attempts by country. Thank you for joining me in this walkthrough.
